@@ -7,6 +7,6 @@
 
 ## Setup
 ```
-$ npm install`
+$ npm install
 $ node index.js
 ```
