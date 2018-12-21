@@ -10,6 +10,7 @@
     - `slack`
       - `RTM_CONN_URL`
     - `kinesis`
+      - `enable`
       - `region`
       - `streamName`
 
