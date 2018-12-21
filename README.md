@@ -18,3 +18,8 @@
 $ npm install
 $ node index.js
 ```
+
+## Reference
+- [AWS Kinesis - docs](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Kinesis.html) 
+- Github
+  - [awslabs/amazon-kinesis-client-nodejs](https://github.com/awslabs/amazon-kinesis-client-nodejs)
