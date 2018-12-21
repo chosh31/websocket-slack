@@ -15,9 +15,20 @@
       - `streamName`
 
 ## Setup
+- both (server/ client)
 ```
 $ npm install
 $ node index.js
+```
+
+- only server(for browser testing)
+```
+$ node index.js --mode=server
+```
+
+- only websocket server(for server testing)
+```
+$ node index.js --mode=websocket
 ```
 
 ## Reference
