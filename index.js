@@ -1,4 +1,4 @@
-const config = require('./config');
+const config = require('./config/config');
 const AWS = require('aws-sdk');
 const WebSocketClient = require('websocket').client;
 const client = new WebSocketClient();

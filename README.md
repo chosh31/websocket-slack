@@ -5,12 +5,13 @@
 - aws
   - aws `IAM`
   - aws `kinesis`
-- `config.js` - using `config.js.template`
-  - `slack`
-    - `RTM_CONN_URL`
-  - `kinesis`
-    - `region`
-    - `streamName`
+- config
+  - `config.js` - using `config.js.template`
+    - `slack`
+      - `RTM_CONN_URL`
+    - `kinesis`
+      - `region`
+      - `streamName`
 
 ## Setup
 ```
