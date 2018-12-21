@@ -8,7 +8,7 @@
 - config
   - `config.js` - using `config.js.template`
     - `slack`
-      - `RTM_CONN_URL`
+      - `RTM_CONN_URL` : use [legacy-tokens](https://api.slack.com/custom-integrations/legacy-tokens)
     - `kinesis`
       - `enable`
       - `region`
