@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.381.0",
+    "kinesis": "^1.2.2",
     "sync-request": "^6.0.0",
     "websocket": "^1.0.28"
   }

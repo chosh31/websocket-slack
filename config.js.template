@@ -1,0 +1,13 @@
+/**
+ * RTM_CONN_URL: https://api.slack.com/methods/rtm.connect 참조
+ */
+
+const config = module.exports = {
+    slack: {
+        RTM_CONN_URL: '__RTM_CONN_URL__'
+    },
+    kinesis: {
+        region: '__REGION__',
+        streamName: '__STREAM_NAME__'
+    }
+};

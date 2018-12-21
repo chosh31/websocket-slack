@@ -3,7 +3,7 @@
     window.WebSocket = window.WebSocket || window.MozWebSocket;
     
 	let connection;
-    await $.get('[SLACK_URL]', (data) => {
+    await $.get('[RTM_CONN_URL]', (data) => {
 		connection = new WebSocket(data.url);
     });
 

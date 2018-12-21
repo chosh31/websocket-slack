@@ -2,8 +2,15 @@
 
 ## Pre-installation
 - nodejs
-- `SLACK_URL` - slack integration url
-  - changed `SLACK_URL`
+- aws
+  - aws `IAM`
+  - aws `kinesis`
+- `config.js` - using `config.js.template`
+  - `slack`
+    - `RTM_CONN_URL`
+  - `kinesis`
+    - `region`
+    - `streamName`
 
 ## Setup
 ```
